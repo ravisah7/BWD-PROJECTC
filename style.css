@@ -1,0 +1,44 @@
+
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+header {
+    background-color: darkblue;
+    color: white;
+    padding: 20px;
+}
+
+.search {
+    background-color: white;
+    padding: 20px;
+}
+
+input {
+    padding: 10px;
+    width: 200px;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.hostels {
+    padding: 20px;
+}
+
+.card {
+    background-color: white;
+    padding: 15px;
+    margin: 15px auto;
+    width: 300px;
+    border-radius: 10px;
+}
+
+
