@@ -41,7 +41,7 @@ function showDetails(name, city, rent) {
 
     document.getElementById("modalBody").innerHTML = `
         
-       "<p><strong>Hostel:</strong> " + document.getElementById("modalTitle").innerText + "</p>" +
+       <p><strong>Hostel:</strong></p>
         <p><strong>City:</strong> ${city}</p>
         <p><strong>Monthly Rent:</strong> Rs. ${rent}</p>
 
