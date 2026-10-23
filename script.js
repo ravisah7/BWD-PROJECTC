@@ -1,4 +1,4 @@
-
+window.alert(`this website is only for student `);
 
 function searchHostel() {
     let city = document.getElementById("city").value.toLowerCase().trim();
