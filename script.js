@@ -1,7 +1,7 @@
 window.alert(`this website is only for student `);
 
 function searchHostel() {
-    let city = document.getElementById("State").value.toLowerCase().trim();
+    let city = document.getElementById("City").value.toLowerCase().trim();
     let type = document.getElementById("hostelType").value;
     let hostels = document.querySelectorAll("#hostels .card");
     let found = 0;
